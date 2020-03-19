@@ -1,0 +1,8 @@
+C:\Users\mshak_000\Desktop\СППР 2лаба\osmlifesimulation\OSMLSGlobalLibrary\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.deps.json
+C:\Users\mshak_000\Desktop\СППР 2лаба\osmlifesimulation\OSMLSGlobalLibrary\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.dll
+C:\Users\mshak_000\Desktop\СППР 2лаба\osmlifesimulation\OSMLSGlobalLibrary\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.pdb
+C:\Users\mshak_000\Desktop\СППР 2лаба\osmlifesimulation\OSMLSGlobalLibrary\obj\Debug\netcoreapp2.1\OSMLSGlobalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mshak_000\Desktop\СППР 2лаба\osmlifesimulation\OSMLSGlobalLibrary\obj\Debug\netcoreapp2.1\OSMLSGlobalLibrary.AssemblyInfoInputs.cache
+C:\Users\mshak_000\Desktop\СППР 2лаба\osmlifesimulation\OSMLSGlobalLibrary\obj\Debug\netcoreapp2.1\OSMLSGlobalLibrary.AssemblyInfo.cs
+C:\Users\mshak_000\Desktop\СППР 2лаба\osmlifesimulation\OSMLSGlobalLibrary\obj\Debug\netcoreapp2.1\OSMLSGlobalLibrary.dll
+C:\Users\mshak_000\Desktop\СППР 2лаба\osmlifesimulation\OSMLSGlobalLibrary\obj\Debug\netcoreapp2.1\OSMLSGlobalLibrary.pdb

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Presets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OsmFilePath>maps/map.osm</OsmFilePath>
+  <RunWebSocketServer>true</RunWebSocketServer>
+  <WebSocketServerUri>http://localhost:61104/</WebSocketServerUri>
+</Presets>
